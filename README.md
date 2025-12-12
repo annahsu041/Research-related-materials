@@ -31,11 +31,11 @@
 文件：MVLA
 
 論文標題： MVLA: Toward Pre-Contact Material-Aware Force Regulating for Vision-Language-Action Models
-<a href="https://github.com/annahsu041/Research-related-materials/releases/download/demo_video/mvla-demo.mp4">
-  <img src="" width="600px"/>
-  <br/>
-  <b>點擊觀看 MVLA 系統演示</b>
-</a>
+
+https://github.com/user-attachments/assets/a7994f00-9f0b-40a3-a686-b21df597bfa7
+
+
+
 核心創新：
 
     1. 接觸前材料分類與物理特性預測
@@ -53,6 +53,10 @@
     易碎物體處理成功率：75%
     
     技術平台： PyBullet、MuJoCo、Isaac Sim
+
+
+https://github.com/user-attachments/assets/b5b583a9-1770-4eae-846f-63167102ff5f
+
 
 三、專題研究報告
 3.1 MVLA系統開發
