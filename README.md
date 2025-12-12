@@ -31,7 +31,11 @@
 文件：MVLA
 
 論文標題： MVLA: Toward Pre-Contact Material-Aware Force Regulating for Vision-Language-Action Models
-
+<a href="https://github.com/annahsu041/Research-related-materials/releases/download/demo_video/mvla-demo.mp4">
+  <img src="" width="600px"/>
+  <br/>
+  <b>點擊觀看 MVLA 系統演示</b>
+</a>
 核心創新：
 
     1. 接觸前材料分類與物理特性預測
